@@ -1,2 +1,3 @@
 # my-first-portfolio
-not fully responsive portfolio (html, css)
+Not fully responsive portfolio (html, css)
+would be back to complete this project someday
